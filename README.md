@@ -13,7 +13,7 @@ A real-time **AI hand detection and tracking** project using webcam and computer
 
 ### 🛠️ Tech Stack
 
-**Python • OpenCV • MediaPipe**
+**HTML • CSS • JavaScript • MediaPipe**
 
 ### 🔮 Future Scope
 
